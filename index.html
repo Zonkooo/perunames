@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang=fr>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Peru city names</title>
+    <script type="text/javascript" src="cities.js"></script>
+    <script type="text/javascript" src="parsing.js"></script>
+</head>
+
+<div style="text-align: center;">
+    <p style="font-size:20px;">Have you visited the town of...</p>
+    <p id="cityname" style="font-size:60px; font-variant:small-caps; text-transform:capitalize;"></p>
+    <button type="button" onclick="generateName()">no, show me an other</button>
+</div>
+
+<body>
+<script>
+    readfile();
+    generateName();
+</script>
+</body>
+</html>

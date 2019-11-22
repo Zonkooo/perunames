@@ -1,4 +1,4 @@
-## [Try it here](https://zonkooo.github.io/perunames/)
+## [Try it here](https://vandonr.github.io/perunames/)
 
 # Why ?
 Visiting Peru, I had a very hard time memorizing city names because thay all seem to sound the same. So I decided to write a generator of Peruvian city names.
